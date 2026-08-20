@@ -6,7 +6,7 @@ let score = 0;
 
 document.querySelector(".score").textContent = score;
 
-fetch("C:\Users\Camilla\Desktop\TESI - imd\SCROLLYTELL\memory\memoryGame\data\card.json")
+fetch("data/card.json")
   .then((res) => res.json())
   .then((data) => {
     cards = [...data, ...data];
