@@ -35,7 +35,7 @@ p {
   justify-content: center;
   grid-gap: 16px;
   grid-template-columns: repeat(4, 140px);
-  grid-template-rows: repeat(2, calc(140px / 2 * 3));
+  grid-template-rows: repeat(2, calc(140px / 2 * 2));
 }
 
 .card {
