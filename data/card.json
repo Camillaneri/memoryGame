@@ -1,26 +1,18 @@
 [
     {
-        "image": "../assets/chili.jpg",
+        "image": "../assets/card-g.jpg",
         "name": "chili"
     },
     {
-        "image": "../assets/grapes.jpg",
+        "image": "../assets/card-j.jpg",
         "name": "grapes"
     },
     {
-        "image": "../assets/lemon.jpg",
+        "image": "../assets/card-r.jpg",
         "name": "lemon"
     },
     {
-        "image": "../assets/orange.jpg",
+        "image": "../assets/card-w.jpg",
         "name": "orange"
-    },
-    {
-        "image": "../assets/pineapple.jpg",
-        "name": "pineapple"
-    },
-    {
-        "image": "../assets/strawberry.jpg",
-        "name": "strawberry"
     }
 ]
