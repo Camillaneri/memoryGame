@@ -93,7 +93,7 @@ function resetBoard() {
   secondCard = null;
   lockBoard = false;
 }
-
+/*
 function restart() {
   resetBoard();
   shuffleCards();
@@ -102,3 +102,4 @@ function restart() {
   gridContainer.innerHTML = "";
   generateCards();
 }
+  */
